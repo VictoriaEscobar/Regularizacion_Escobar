@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+scikit-learn
+nltk>=3.9.0
+matplotlib
+tensorboard
+mlflow
+optuna
